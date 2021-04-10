@@ -1,0 +1,8 @@
+{
+	"name": "@remato/browserslist-config",
+	"version": "1.0.0",
+	"license": "MIT",
+	"devDependencies": {
+		"@remato/prettier-config": "^1.0.0"
+	}
+}
